@@ -54,6 +54,7 @@ Notes at **LEVEL 3 and above** are generally the most useful for reference.
 - Year 2 Term 2 — **GFH1000 In Dialogue with Humanity (与人文对话)**  
 - Year 1 Term 1 — **MAT1001 Calculus I (微积分 I)**  
 - Year 3 Term 2 — **STA3005 Statistical Computing (统计计算)**  
+- Year 4 Term 1 — **DDA4330 Modern Optimization (现代最优化)**
 
 ### ⭐ LEVEL 1
 
