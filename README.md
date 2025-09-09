@@ -4,7 +4,7 @@ This repository contains some of my personal course notes from **The Chinese Uni
 
 ---
 
-## 🗂️ Types of Notes and Quality Levels
+## 🗂️ Notes Overview
 
 There are two types of notes included in this repository:  
 - **Notability handwritten notes** (stored as PDF files)  
@@ -32,12 +32,12 @@ Notes at **LEVEL 3 and above** are generally the most useful for reference.
 - Year 2 Term 1 — **MAT3007 Optimization (最优化)**  
 - Year 3 Term 1 — **STA3001 Linear Models (线性模型)**  
 - Year 4 Term 1 — **GEC2207 World Politics (国际政治)**  
+- Year 2 Term 1 — **CSC3100 Data Structures (数据结构)**  
 
 ### ⭐ LEVEL 3
 
 - Year 1 Summer — **MAT2040 Linear Algebra (线性代数)**  
 - Year 2 Term 1 — **STA2003 Probability (概率论)**  
-- Year 2 Term 1 — **CSC3100 Data Structures (数据结构)**  
 - Year 2 Term 2 — **DDA3020 Machine Learning (机器学习)**  
 - Year 4 Term 2 — **GEA2000 Modern Chinese History and Culture (中国近现代历史与文化)**  
 - Year 1 Term 2 — **DDA2001 Introduction to Data Science (数据科学基础)**  
